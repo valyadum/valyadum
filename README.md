@@ -22,6 +22,8 @@ Junior Front End Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/valyadum"><<img src="https://github-readme-stats.vercel.app/api?username=valyadum&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="valyadum's GitHub Stats" /></a>
+<a href="http://www.github.com/valyadum"><img src="https://github-readme-stats.vercel.app/api?username=valyadum&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="valyadum's GitHub Stats" /></a>
 
-<a href="https://github.com/valyadum" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valyadum&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="valyadum's GitHub Stats" /></a>
+<a href="https://github.com/valyadum" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valyadum&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="valyadum's GitHub Stats"/>
+</a>
