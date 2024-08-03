@@ -61,16 +61,16 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valyadum&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valyadum&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="valyadum's GitHub Stats" /></div>  
 
 <br/>  
 
-  
+ <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=valyadum&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="valyadum's GitHub Stats" /></div>
 
 <br/>  
-
-  
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valyadum&theme=dark&hide_border=true" alt="valyadum's GitHub Stats" />
+</div>
 <br/>  
 
   
