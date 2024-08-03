@@ -5,9 +5,19 @@ Junior Front End Developer
 --------------------------
 
 * 🌍  I'm based in Ukrain
-* ✉️  You can contact me at [valyadum@ukr.net](mailto:valyadum@ukr.net)
 * 🚀  I'm currently working on [movies-db](http://github.com/valyadum/movies-db)
 * 🧠  I'm learning TypeScript and Next.js
+---
+
+![snake gif](https://github.com/valyadum/valyadum/blob/output/github-contribution-grid-snake.svg)
+
+**📲 Contacts:**
+
+- [Email](mailto:valyadum@ukr.net) 📩
+- [LinkedIn]((https://www.linkedin.com/in/valentyna-dumbrava/)) 📌
+- [Telegram]((https://t.me/valya_dumbrava)) 📞
+
+---
 
 ### Skills
 
