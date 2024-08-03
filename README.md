@@ -14,8 +14,8 @@ Junior Front End Developer
 **📲 Contacts:**
 
 - [Email](mailto:valyadum@ukr.net) 📩
-- [LinkedIn]((https://www.linkedin.com/in/valentyna-dumbrava/)) 📌
-- [Telegram]((https://t.me/valya_dumbrava)) 📞
+- [LinkedIn](https://www.linkedin.com/in/valentyna-dumbrava/) 📌
+- [Telegram](https://t.me/valya_dumbrava) 📞
 
 ---
 
