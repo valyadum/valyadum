@@ -9,8 +9,6 @@ Junior Front End Developer
 * 🧠  I'm learning TypeScript and Next.js
 ---
 
-![snake gif](https://github.com/valyadum/valyadum/blob/output/github-contribution-grid-snake.svg)
-
 **📲 Contacts:**
 
 - [Email](mailto:valyadum@ukr.net) 📩
