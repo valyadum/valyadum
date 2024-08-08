@@ -5,7 +5,7 @@ Junior Front End Developer
 --------------------------
 
 * 🌍  I'm based in Ukrain
-* 🚀  I'm currently working on [movies-db](http://github.com/valyadum/movies-db)
+* 🚀  I'm currently working on [movies-db](http://github.com/valyadum/movies-db) and [Pawfect-shop](https://github.com/Pawfect-Shop/frontend)
 * 🧠  I'm learning TypeScript and Next.js
 ---
 
